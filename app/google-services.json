@@ -1,0 +1,359 @@
+{
+  "project_info": {
+    "project_number": "757925985579",
+    "firebase_url": "https://howlcoding.firebaseio.com",
+    "project_id": "howlcoding",
+    "storage_bucket": "howlcoding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:a8e4c2f9f1fcf885",
+        "android_client_info": {
+          "package_name": "com.example.myeongsic.howlnofitication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-6cg468hc0lmrvblh0sam688ppdpfl39n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.auth",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-32i7iik4fi2ej7g4j7m6thgut6b8q7j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swift.HowlRemoteConfig"
+              }
+            },
+            {
+              "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:12ae17576867046f",
+        "android_client_info": {
+          "package_name": "com.example.myeongsic.howlfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-4gc5t37tj75g7f4v68oel1jh8br4dp66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myeongsic.howlfirebaseauth",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-32i7iik4fi2ej7g4j7m6thgut6b8q7j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swift.HowlRemoteConfig"
+              }
+            },
+            {
+              "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:e0275cf6125ae8bb",
+        "android_client_info": {
+          "package_name": "com.mssoft.myeongsic.firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-2522sh3r3fj4gld222u82h98p7e14mf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mssoft.myeongsic.firebasechatting",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-32i7iik4fi2ej7g4j7m6thgut6b8q7j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swift.HowlRemoteConfig"
+              }
+            },
+            {
+              "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:9465f60ca7b8654a",
+        "android_client_info": {
+          "package_name": "com.mssoft.myeongsic.howlfirebaseband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-lse1qd4udo9namg5kbrnj4jg4otf9shc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mssoft.myeongsic.howlfirebaseband",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-32i7iik4fi2ej7g4j7m6thgut6b8q7j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swift.HowlRemoteConfig"
+              }
+            },
+            {
+              "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:7dbd01deca5a46dd",
+        "android_client_info": {
+          "package_name": "com.recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:e45c03a85ec7aab2",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.deeplinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-47njhfjfnm6jv20grgj9f5s57j0l7q8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.deeplinks",
+            "certificate_hash": "ef524a2e2475192e0e677234f69e4cec63dc8cef"
+          }
+        },
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757925985579-32i7iik4fi2ej7g4j7m6thgut6b8q7j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swift.HowlRemoteConfig"
+              }
+            },
+            {
+              "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757925985579:android:c9fd2a809cdfeffe",
+        "android_client_info": {
+          "package_name": "com.example.myeongsic.howldynamiclinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757925985579-mnb2e34lpeugticfq8qf3aqj98m8hsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYthrDGDqXQQ4pZwDPUKpu6P-nj5iWSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
